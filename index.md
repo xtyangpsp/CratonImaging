@@ -4,7 +4,7 @@ You can check the [GitHub repository](https://github.com/xtyangpsp/MsMICE) to ac
 
 ### Team
 
-Here is our PI team and supported personels
+Here is our PI team and supported personnels
 
 ### Research highlights
 
