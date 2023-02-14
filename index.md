@@ -1,14 +1,16 @@
-## Welcome to MsMICE project webpage
+## Welcome to Craton Imaging project webpage
 
-You can check the [GitHub repository](https://github.com/xtyangpsp/MsMICE) to access the computer codes for this project. This page serves as the interface to highlight key research progress and results.
+You can check the [GitHub repository](https://github.com/xtyangpsp/CratonImaging) to access the computer codes for this project. This page serves as the interface to highlight key research progress and results.
 
 ### Team
 
-Here is our PI team and supported personnels
+PI: Xiaotao Yang
+Graduate student: TBA
+Other personnels: TBA
 
 ### Research highlights
 
-Here you can find key research results.
+Here you can find key research results from this project.
 
 ### Fieldwork
 
